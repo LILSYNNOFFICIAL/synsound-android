@@ -11,8 +11,8 @@
 [![Web Audio](https://img.shields.io/badge/Audio-Web%20Audio%20API-orange.svg)](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
 [![AudioWorklet](https://img.shields.io/badge/Real--Time-AudioWorklet-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/API/AudioWorklet)
 [![F-Droid](https://img.shields.io/f-droid/v/com.synsound.app.svg?logo=f-droid)](https://f-droid.org/packages/com.synsound.app/)
-[![Build](https://github.com/Neurosyn-Dev/SYNSOUND/actions/workflows/build.yml/badge.svg)](https://github.com/Neurosyn-Dev/SYNSOUND/actions/workflows/build.yml)
-[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
+[![Build](https://github.com/LILSYNNOFFICIAL/synsound-android/actions/workflows/badge.svg)](https://github.com/LILSYNNOFFICIAL/synsound-android/actions)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/packages/com.synsound.app/)
 
